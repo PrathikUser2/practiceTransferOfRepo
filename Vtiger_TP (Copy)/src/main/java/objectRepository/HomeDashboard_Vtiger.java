@@ -70,7 +70,7 @@ public class HomeDashboard_Vtiger {
 		return opportunitiesBtn;
 	}
 
-	public WebElement getProductsBtn() {
+	public WebElement getProductsButton() {
 		return productsBtn;
 	}
 
